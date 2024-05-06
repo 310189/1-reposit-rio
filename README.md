@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt-br">
   <head>
-    <title> 1° Repositório </title>
+    <title>1° Repositório</title>
     <meta charset="utf-8">
   </head>
   <body>
